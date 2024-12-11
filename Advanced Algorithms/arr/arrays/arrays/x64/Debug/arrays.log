@@ -1,0 +1,6 @@
+﻿  arrays.cpp
+C:\Users\ascom\Desktop\arr\arrays\arrays\arrays.cpp(44,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ascom\Desktop\arr\arrays\arrays\arrays.cpp(66,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ascom\Desktop\arr\arrays\arrays\arrays.cpp(93,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ascom\Desktop\arr\arrays\arrays\arrays.cpp(119,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  arrays.vcxproj -> C:\Users\ascom\Desktop\arr\arrays\x64\Debug\arrays.exe
